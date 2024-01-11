@@ -1,6 +1,6 @@
 # sesizz_sehir
 
-A new Flutter project.
+A new Flutter project supported by Beykoz.
 
 ## Getting Started
 
