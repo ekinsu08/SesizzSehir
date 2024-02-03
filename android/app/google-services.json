@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "824249531144",
+    "project_id": "sessizsehir-73b29",
+    "storage_bucket": "sessizsehir-73b29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824249531144:android:36d65960a58b6a243c4abd",
+        "android_client_info": {
+          "package_name": "com.example.sesizz_sehir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxuov3eNHzfey5RzzJ0xv50mE8xS_TL8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
