@@ -1,7 +1,6 @@
 
 import 'package:flutter/material.dart';
-
-import 'home_view.dart';
+import 'package:sesizz_sehir/view/login_view.dart';
 
 class RegisterView extends StatelessWidget {
   const RegisterView({super.key});
@@ -95,7 +94,7 @@ class RegisterView extends StatelessWidget {
               TextButton(
                   onPressed: () {
                     Navigator.pushReplacement(context,
-                        MaterialPageRoute(builder: (context) => Anasayfa()));
+                        MaterialPageRoute(builder: (context) => const LoginView()));
                   },
                   child: const Text("Login Here"))
 
