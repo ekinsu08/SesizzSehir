@@ -82,6 +82,7 @@ class _HomeViewState extends State<HomeView> {
               Card(
                 child: Column(
 
+
                 ),
               ),
             ],
