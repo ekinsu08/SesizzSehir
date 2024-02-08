@@ -19,9 +19,9 @@ class LoginView extends StatelessWidget {
                   height: 10,
                 ),
                 const Text(
-                  'ANIMALS',
+                  'Profil app',
 
-                  style: TextStyle(fontSize: 30.5,color: Colors.red),
+                  style: TextStyle(fontSize: 30.5,color: Colors.black),
                 ),
                 SizedBox(
                   height: 60.0,
