@@ -167,9 +167,7 @@ class _HomeViewState extends State<HomeView> {
 
         ),
 
-        floatingActionButton: FloatingActionButton(
-          onPressed: () {  },
-        ),
+       
       ),
     );
 
