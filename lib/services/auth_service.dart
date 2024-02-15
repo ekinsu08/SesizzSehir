@@ -8,8 +8,8 @@ import 'package:firebase_auth/firebase_auth.dart';
 /// 2. **Kolaylık**: Firebase kimlik doğrulama, kullanıcıların popüler kimlik sağlayıcıları kullanarak hızlı ve kolay bir şekilde oturum açmasını sağlar.
 /// 3. **Ölçeklenebilirlik**: Firebase kimlik doğrulama, uygulamanızın kullanıcı tabanı büyüdükçe ölçeklenebilir.
 /// 4. **Entegrasyon**: Firebase kimlik doğrulama, Firebase'in diğer hizmetleriyle (örneğin, Firestore, Cloud Functions) kolayca entegre olur.
-///
-/// Firebase kimlik doğrulamanın nasıl kullanılacağına gelince, aşağıdaki adımları izleyebilirsiniz:
+///la
+// /// Firebase kimlik doğrumanın nasıl kullanılacağına gelince, aşağıdaki adımları izleyebilirsiniz:
 /// 1. **Firebase Projesi Oluşturma**: Firebase konsolunda yeni bir proje oluşturun ve projenizi Firebase ile bağlayın.
 /// 2. **Kimlik Doğrulama Etkinleştirme**: Firebase konsolunda, kimlik doğrulama bölümüne gidin ve e-posta/şifre oturum açmayı etkinleştirin.
 /// 3. **Firebase Auth Örneği Oluşturma**: Uygulamanızda, FirebaseAuth sınıfından bir örnek oluşturun. Bu örnek, kimlik doğrulama işlemlerini gerçekleştirmek için kullanılacaktır.
