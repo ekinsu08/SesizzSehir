@@ -11,4 +11,5 @@ class AnimalModel{
     "Fish" :"https://images.pexels.com/photos/128756/pexels-photo-128756.jpeg?auto=compress&cs=tinysrgb&w=600",
     "Rabbit":"https://assets.petco.com/petco/image/upload/f_auto,q_auto/rabbit-care-sheet"
   };
+  List<String> list = <String>['All', 'Cat', 'Dog', 'Bird','Fish','Rabbit'];
 }
